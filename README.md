@@ -1,2 +1,3 @@
 # usenix26-upcycling-repo
-Contains all artifacts for the paper "Investigating Educational Collaborations with Upcycled Computing Equipment on Student-Run Cybersecurity Clubs"
+The files in this repository are for the USENIX 2026 paper: "Investigating Educational Collaborations with Upcycled Computing Equipment on Student-Run Cybersecurity Clubs"
+

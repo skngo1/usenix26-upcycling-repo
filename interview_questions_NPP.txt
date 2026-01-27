@@ -1,0 +1,43 @@
+Semi-structured interview questions for NPP interviewees
+
+Warm-Up
+0. What is your current occupation or field of study?
+1. What led you to do what you currently do in the space of computing education and outreach?
+
+NPP and Operations
+2. What is NPP, and what is your role within NPP?
+3. How would you describe NPP’s main missions and motivations?
+4. Where do you typically acquire the computing equipment that you upcycle for others from?
+5. What do you do to prepare the computing equipment for usage/upcycling?
+6. What is your process for reaching out to students and clubs to provide support to?
+7. Has the quality or type of support from NPP changed over time?
+8. What does a typical lifecycle look like for the equipment that gets donated, from acquisition to end-of-life?
+
+Benefits
+9. What kind of support do you provide to students and clubs?
+10. How much do students already know with regard to the computing topics that you intend to provide more education for?
+11. In your experience, what are the most common misconceptions students have when first receiving upcycled equipment or support?
+12. What kind of computing equipment do you provide them with?
+13. How much is the computing equipment, roughly, worth that you provide?
+14. From your understanding, what outcomes have been made possible within the different students and clubs that experienced your support?
+
+Challenges and Needs
+15. What challenges have you faced when working with students and clubs?
+16. How did you overcome/address these challenges? Are these challenges still prevalent?
+17. What do you feel are the most persistent barriers to scaling NPP’s efforts?
+18. What challenges do the students and clubs face when conducting any relevant work or projects under your mentoring and support?
+19. What trends do you see among the needs or challenges faced by clubs and students today compared to when you started?
+20. What do you and NPP need right now to better support the students and clubs?
+21. Are there resources you frequently wish you had more of—technical, financial, or human?
+22. What kinds of research or data would help you demonstrate or measure NPP’s impact more effectively?
+23. How can academic researchers or students meaningfully contribute to NPP’s mission?
+
+Growth Directions
+24. How do you envision NPP growing in the next few years?
+25. What advice would you give to similar grassroots or nonprofit efforts trying to upcycle and support underserved communities?
+26. Are there specific areas where you'd welcome research collaborations?
+
+Conclusion
+27. Do you think there was anything that we should have asked but didn’t?
+28. Was there anything you felt was relevant but didn’t get a chance to say?
+

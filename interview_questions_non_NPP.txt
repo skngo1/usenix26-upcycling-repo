@@ -1,0 +1,48 @@
+Semi-structured interview questions for non-NPP interviewees
+
+Warm-Up
+0. What is your current occupation or field of study?
+1. Are you currently or formerly affiliated with any cybersecurity clubs, and if so, what is (or was) your role and involvement with the club(s)?
+
+Interactions with NPP
+2. How were you originally made aware of what NPP is doing for your club?
+3. If you are aware, approximately how long ago did NPP first reach out to your club?
+4. How is NPP currently supporting you and your club?
+5. What kind of computing equipment has NPP provided for you and your club, if any?
+6. How would you describe the quality of the equipment you were provided?
+7. From your perspective, what are NPP’s intentions and goals in supporting you and your club?
+8. How aligned are NPP’s goals with your club’s goals?
+
+Security Education
+9. Taking a step back, what has been the extent of your experience with security education in school and courses?
+10. How do (or did) you feel about the course offerings at your institution, with regard to security education?
+11. What topics in security would you like to see more of within higher education?
+12. How can NPP and the upcycled computing equipment/server infrastructure be utilized to better support education in these topics?
+13. Outside of formal coursework, where else do you and your peers learn about security?
+14. How well prepared do you feel to apply security knowledge in practical or industry settings?
+15. What formats (e.g., hands-on labs, lectures, mentorship, CTFs) would you prefer for learning security topics?
+
+Benefits
+16. What outcomes involving you and your club have been made possible by NPP’s support?
+17. Can you describe a memorable moment or success story that involved NPP’s support?
+18. What technologies and concepts are you exposed to through the upcycled computing equipment/server infrastructure?
+19. What activities specifically did you do to get exposed to such technologies and concepts?
+20. How has what you learned from using the provided computing equipment shown up in classes, your internship/career, or elsewhere?
+21. Has NPP’s support impacted member recruitment, retention, or engagement in your club? If so, how?
+
+Challenges and Needs
+22. What challenges have you faced when working with NPP? 
+23. What challenges have you faced when working with the upcycled computing equipment/server infrastructure they provide?
+24. What forms of non-technical support would be valuable from NPP?
+25. What do you and NPP need right now to better support you and your club’s goals and operations?
+
+Growth Directions
+26. If NPP had to focus on one thing next year to support clubs like yours more effectively, what should that be?
+27. What would you and your club like to do more with the upcycled computing equipment/server infrastructure?
+28. What advice would you give NPP to better understand or engage with student-led security education efforts?
+29. With the shift and integration of AI and LLMs into every aspect of tech, what can NPP do to support exploration and education in AI?
+
+Conclusion
+30. Do you think there was anything that we should have asked but didn’t?
+31. Was there anything you felt was relevant but didn’t get a chance to say?
+
